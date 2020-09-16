@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+}
+h3 {
+    font-family: sans-serif;
+}
+p {
+    font-family: monospace;
+}
+.university-section {
+    color: purple;
+}
+.university-years-section {
+    position: absolute;
+    right: 10px;
+}
+hr.even {
+    border-top: 2px dotted green;
+}
+hr.odd {
+    border-top: 2px dashed grey;
+}
